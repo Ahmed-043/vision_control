@@ -3,6 +3,13 @@
 An AI-powered virtual mouse controller that allows users to control the computer cursor using **head movements, eye gaze, facial gestures, and blink detection**. The project combines **MediaPipe Face Mesh**, **OpenCV**, **Machine Learning**, and **CustomTkinter** to provide a hands-free Human-Computer Interaction (HCI) system.
 
 ---
+## ⬇ Download
+
+Download the latest Windows executable here:
+
+**[Download Eye Cursor AI](https://github.com/Ahmed-043/vision_control/releases/download/v1.0.0/Eye_Cursor_Ai.exe)**
+
+---
 
 ## Features
 
